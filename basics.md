@@ -12,7 +12,7 @@ Getting the Gist of Markdown's Formatting Syntax
 
   [s]: http://markdown.tw  "Markdown Syntax"
   [d]: http://daringfireball.net/projects/markdown/dingus  "Markdown Dingus"
-  [src]: https://github.com/othree/markdown-syntax-zhtw/blob/master/basics.md
+  [src]: https://github.com/wangqianfront/markdown-syntax/blob/master/basics.md
 
 ## 段落、標題、區塊程式碼 ##
 
