@@ -1,8 +1,8 @@
 Markdown 语法使用说明
 =====================
 
-### [基本语法](https://github.com/wangqianfront/markdown-syntax/blob/master/basics.md)
-### []
++ **[基本语法](https://github.com/wangqianfront/markdown-syntax/blob/master/basics.md)**
++ **[语法提示](https://github.com/wangqianfront/markdwon-syntax/blob/master/syntax.md)**
 
 編輯器
 -----
